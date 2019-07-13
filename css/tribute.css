@@ -67,5 +67,10 @@ header{
 	margin-bottom: 100px;
 }
 
+@media(max-width: 768px){
+	.box{
+		width: 32%;
+	}
+}
 
 
