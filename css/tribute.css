@@ -67,5 +67,17 @@ header{
 	margin-bottom: 100px;
 }
 
+<<<<<<< HEAD
+=======
+@media(max-width: 768px){
+	.box{
+		width: 32%;
+	}
+	#fmContent .box img{
+	/*width: 90%;*/
+	width: 80%;
+}
+}
+>>>>>>> 162f1629005cf186540a4dfc5136754c5fde20fe
 
 
